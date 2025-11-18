@@ -6,7 +6,7 @@ To identify user pain points, write clear UX problem statements, choose appropri
 
 ## Algorithm:
 
-1.Select scenarios choose the two apps: Government Service (UMANG) and Health (Doctor/Health Checker).
+1.Select scenarios choose the two apps: Food delivery and Travel app.
 
 2.Gather initial observations review screenshots and jot common user complaints (form confusion, long login).
 
@@ -24,91 +24,198 @@ To identify user pain points, write clear UX problem statements, choose appropri
 
 ## Output:
 
-<img width="876" height="361" alt="image" src="https://github.com/user-attachments/assets/fafc22ab-8c3f-4ec1-8ff2-aea4a3ab6b08" />
+<img width="450" height="383" alt="Screenshot 2025-11-18 115201" src="https://github.com/user-attachments/assets/7ff3685d-96ea-451d-b443-93cce3002fd9" />
 
-EXAMPLE DESIGN
 
-<img width="829" height="697" alt="image" src="https://github.com/user-attachments/assets/e4a76a3f-7cc1-439d-ab26-7c01c56019d6" />
 
-The output of this experiment includes two fully analyzed UX project scenarios a Government Service App (UMANG) and a Health Tracking App along with their user pain points, problem statements, selected research methods, and created user personas.This experiment helped in understanding how UX design is not only about visual appearance but also about identifying real-world user challenges and finding human-centered solutions through research and design thinking.
 
-1. Scenario 1: Government Service App (UMANG)
-The chosen government application provides multiple services like Aadhaar, DigiLocker, and Railway inquiries. However, users often face issues while filling online forms and following the application procedures.
+📌 Scenario 1: Food Delivery App – “FoodGo”
+1. Identifying & Writing Problem Statements
+User Pain Points
 
-Observed User Problems:
-1.Users struggle to understand the procedure for filling and submitting forms.
+Users struggle to quickly find food options that match their taste/diet.
 
-2.There is no tutorial or proper guidance in the interface.
+Long delivery times and unclear ETA make users frustrated.
 
-3.Navigation between different services is confusing and not beginner-friendly.
+Tracking orders is confusing during peak hours.
 
-Problem Statement:
-Citizens need a way to understand how to fill government service forms step-by-step because the current portal lacks clear tutorials and guidance, which results in errors, incomplete submissions, and user frustration.
+Checkout process feels lengthy or complicated.
 
-Selected Research Methods:
-User Interviews: To collect real feedback from citizens about their experience while using the government portal.
+Problem Statements (Template Based)
 
-Usability Testing: To watch users performing tasks on the app and identify exact points where they face difficulty.
+1️⃣ “A busy user needs a way to quickly discover food options because exploring menus takes too long, which results in delayed ordering and frustration.”
 
-Expected Outcome:
-By conducting interviews and usability testing, the UX designer can simplify navigation, include step-by-step tutorials, and design a more guided process for completing applications smoothly.
+2️⃣ “A user needs a way to track their delivery in real-time because current updates are unclear, which results in anxiety and repeated checking.”
 
-Persona 1: Rajesh Kumar (Government App User)
-Age: 45
+2. Identifying Appropriate Research Methods
+Recommended Methods & Justifications
 
-Occupation: Small Business Owner
+🔹 Surveys
+To gather broad data about ordering habits, pain points, delivery expectations.
+
+🔹 User Interviews
+To understand deeper motivations—why users choose certain restaurants, what frustrates them about waiting times.
+
+🔹 Usability Testing (Prototype Test)
+To test whether users easily navigate food categories, cart, checkout, and tracking UI.
+
+🔹 Field Observation (Optional)
+Observing food pickup/delivery process can reveal logistical issues affecting UX.
+
+3. Creating Personas
+Persona 1: Arjun – The Busy Professional
+
+Age: 26
+
+Occupation: Software Engineer
 
 Location: Chennai
 
-Goals: Wants to renew business licenses and certificates easily.
+Goals:
 
-Behaviors: Uses mobile often but gets confused with government sites.
+Order food quickly during work breaks
 
-Pain Points: No proper guidance or step-by-step help.
+Track delivery accurately
 
-Motivation: Needs a simple, mobile-friendly portal with tutorials.
+Behaviors:
 
-2. Scenario 2: Health Tracking / Doctor Appointment App
-This health application allows users to book appointments, check daily health parameters, and get reminders. However, the major issue is the long login process, even for basic health check features.
+Orders 4–5 times a week
 
-Observed User Problems:
-1.Users are forced to log in before accessing simple features like BMI or heart rate check.
+Prefers fast checkout and repeat orders
 
-2.Many users skip using the app due to lengthy verification steps.
+Pain Points:
 
-3.The process reduces user engagement and leads to app abandonment.
+Slow app loading
 
-Problem Statement:
-Users need a way to access basic health check features without logging in because the long login process delays quick health checks, which results in user drop-off and poor engagement.
+Confusing real-time tracking
 
-Selected Research Methods:
+Motivation:
 
-Online Surveys: To gather user opinions about login issues and preferences for quick access features.
+Wants convenience and speed
 
-A/B Testing: To compare two versions of the app (with and without login) and measure which gives a better user experience.
+Persona 2: Meera – The Health-Conscious Student
 
-Expected Outcome:
-The UX designer can use survey and testing results to redesign the login flow — allowing guest access for quick health checks and encouraging users to register later for advanced features.
+Age: 20
 
-Persona 2: Priya Sharma (Health App User)
-Age: 26
-
-Occupation: IT Professional
+Occupation: College Student
 
 Location: Bangalore
 
-Goals: Quickly check daily health status and book doctor appointments.
+Goals:
 
-Behaviors: Tech-savvy but prefers quick access.
+Find healthy/vegan-friendly food
 
-Pain Points: Login and registration take too much time.
+Compare prices to stay on budget
 
-Motivation: Wants an app that gives instant access to basic features without login.
+Behaviors:
 
-3. Visual Output
-Screenshots of both the selected apps UMANG App (Government Service Portal) and Health Tracking App (Doctor Appointment) are included in the report to visually support the scenarios discussed. Each image represents the user interface of the chosen application and helps illustrate the user problems identified during analysis.
+Checks nutritional info before ordering
 
+Prefers wallet-friendly options
 
+Pain Points:
+
+Hard to find healthy choices in app
+
+Too many irrelevant suggestions
+
+Motivation:
+
+Stay healthy while saving money
+
+📌 Scenario 2: Travel Booking App – “TravelBook”
+1. Identifying & Writing Problem Statements
+User Pain Points
+
+Users find it difficult to compare prices across buses, trains, and flights.
+
+Travel details (timings, seat availability, documents) are not always clear.
+
+Long forms during booking cause drop-offs.
+
+Users struggle to manage tickets and ID proofs.
+
+Problem Statements (Template Based)
+
+1️⃣ “A budget traveler needs a way to compare travel options because prices vary widely across services, which results in overspending or spending extra time searching.”
+
+2️⃣ “A frequent traveler needs a way to store travel documents in one place because switching between apps is inconvenient, which results in missed bookings and delays.”
+
+2. Identifying Appropriate Research Methods
+Recommended Methods & Justifications
+
+🔹 User Interviews
+To understand travel planning behavior, price sensitivity, and stress points.
+
+🔹 Competitor Analysis
+To identify gaps in existing apps (e.g., MakeMyTrip, RedBus).
+
+🔹 Usability Testing
+To test the ease of date selection, filtering, booking flow, and document upload.
+
+🔹 Journey Mapping Workshops
+To understand end-to-end travel flow—from planning to ticket storage.
+
+3. Creating Personas
+Persona 1: Rakesh – The Budget Business Traveler
+
+Age: 34
+
+Occupation: Sales Manager
+
+Location: Hyderabad
+
+Goals:
+
+Book last-minute travel at the best price
+
+Access tickets quickly
+
+Behaviors:
+
+Travels 6–8 times a month
+
+Prefers quick filtering by price and time
+
+Pain Points:
+
+Hard to find the cheapest option fast
+
+Multiple apps for tickets + ID
+
+Motivation:
+
+Save money and avoid delays
+
+Persona 2: Kavya – The Casual Explorer
+
+Age: 22
+
+Occupation: College Student
+
+Location: Pune
+
+Goals:
+
+Discover new places to visit
+
+Easy booking without complex options
+
+Behaviors:
+
+Travels during weekends & holidays
+
+Uses Instagram travel pages for ideas
+
+Pain Points:
+
+Overwhelmed by too many choices
+
+Difficulty finding safe travel options
+
+Motivation:
+
+Explore comfortably and safely
 
 ## Result:
 
