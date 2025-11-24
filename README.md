@@ -2,7 +2,7 @@
 
 ## Aim:
 
-To identify user pain points, write clear UX problem statements, choose appropriate research methods, and create user personas for two apps (a Government Service app and a Health app) to produce a ready-to-submit UX lab report.
+To identify user pain points, write clear UX problem statements, choose appropriate research methods, and create user personas for two apps to produce a ready-to-submit UX lab report.
 
 ## Algorithm:
 
